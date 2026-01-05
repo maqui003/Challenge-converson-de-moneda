@@ -1,4 +1,4 @@
-# 💰 Conversor de Monedas - Java Console App
+# Conversor de Monedas - Java Console App
 
 Este proyecto es un desafio propuesto por el programa ALURA ONE. Se trata de un conversor de monedas interactivo desarrollado en Java, que utiliza la API **ExchangeRate-API** para obtener tasas de cambio en tiempo real. Permite a los usuarios realizar conversiones entre pares de divisas predefinidos.
 
